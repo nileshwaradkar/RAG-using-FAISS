@@ -1,3 +1,5 @@
 langchain-ollama
-Streamlit
+PyPDFLoader
+OllamaEmbeddings
+langchain.prompts
 FAISS
